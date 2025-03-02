@@ -1,0 +1,45 @@
+@charset "UTF-8";
+.services__box {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  align-items: start;
+  gap: 30px;
+}
+@media screen and (max-width: 880px) {
+  .services__box {
+    grid-template-columns: 1fr;
+  }
+}
+.services__item {
+  width: 100%;
+  padding: 20px 16px;
+  border: 1px solid #00ffee;
+  box-shadow: 0 0 12px #00ffee;
+  border-radius: 10px;
+}
+.services__item-title {
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  font-size: 18px;
+}
+.services__description {
+  margin-bottom: 20px;
+  font-size: 16px;
+  max-height: 50px; /* Изначальная ограниченная высота */
+  overflow: hidden;
+  transition: all 0.4s linear; /* Плавное изменение высоты */
+}
+.services__description.expanded {
+  max-height: 300px; /* Максимальная высота при раскрытии */
+}
+.services__btn-more {
+  padding: 12px 28px;
+  box-shadow: 0 0 5px #00ffee;
+  border-radius: 4px;
+}
+.services__btn-more:hover {
+  box-shadow: 0 0 20px #00ffee;
+}/*# sourceMappingURL=Services.module.css.map */

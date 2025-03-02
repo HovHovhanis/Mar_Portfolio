@@ -1,0 +1,188 @@
+.banner {
+    padding: 120px 0 80px 0;
+
+    
+    @media screen and (max-width: 480px) {
+       padding: 60px 0;
+    }
+
+    &__box {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+
+        @media screen and (max-width: 880px) {
+            flex-direction: column;
+            align-items: start;
+        }
+    }
+
+    &__info {
+        max-width: 60%;
+
+         @media screen and (max-width: 880px) {
+           max-width: 100%;
+           margin-bottom: 20px;
+        }
+
+
+        &--title {
+            margin-bottom: 5px;
+            font-size: 48px;
+            font-weight: 600;
+
+            > span {
+                color: #00ffee;
+            }
+        }
+
+        &--animation--text {
+            min-width: 280px;
+            margin-bottom: 20px;
+            font-size: 20px;
+
+            > span {
+                position: relative;
+                
+                &::before {
+                    content: "Web Disign";
+                    color: #00ffee;
+                    animation: words 20s infinite;
+                }
+
+                &::after {
+                    position: absolute;
+                    content: " ";
+                    background-color: #131313;
+                    width: calc(100% + 8px);
+                    height: 100%;
+                    border-left: 3px solid #131313;
+                    right: -8px;
+                    animation: cursor 0.6s infinite, typing 20s steps(14) infinite;
+                }
+            }
+        }
+
+        &--desck {
+            margin-bottom: 20px;
+            font-size: 14px;
+            font-weight: 400;
+            line-height: 1.6rem;
+        }
+    }
+
+    &__soc-list {
+        display: flex;
+        align-items: center;
+        gap: 30px;
+    }
+
+    &__soc-item {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        cursor: pointer;
+    }
+
+    &__soc-link {
+        width: 50px;
+        height: 50px;
+        color: #000000;
+        border-radius: 50%;
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: #00ffee;
+        
+        &:hover {
+            box-shadow: 0 0 25px #00ffee, 0 0 50px #00ffee, 0 0 100px #00ffee;
+        }
+    }
+
+    &__images {
+        max-width: 50%;
+
+        
+        @media screen and (max-width: 480px) {
+           max-width: 100%;
+        }
+
+        @media screen and (max-width: 880px) {
+            max-width: 100%;
+            margin: auto;
+         }
+
+        > img {
+            position: relative;
+            top: 1rem;
+            object-fit: cover;
+            box-shadow: 0 0 25px #00ffee;
+            border-radius: 50%;
+            transition: .4s ease-in-out;
+            cursor: pointer;
+
+            
+        @media screen and (max-width: 480px) {
+           border-radius: 12px;
+        }
+    
+            &:hover {
+                box-shadow: 0 0 25px #00ffee, 0 0 50px #00ffee, 0 0 100px #00ffee;
+            }
+        }
+    }
+}
+
+
+@keyframes cursor {
+    to {
+        border-left: 2px solid #00ffee;
+    }
+}
+
+@keyframes words {
+    0%,
+    20% {
+        content: " Web Designer";
+    }
+    21%,
+    55% {
+        content: " UI / UX Designer";
+    }
+    56%,
+    80% {
+        content: " Softwer Tester";
+    }
+    81%,
+    100% {
+        content: " Web Designer";
+    }
+}
+
+@keyframes typing {
+    10%,
+    15%,
+    30%,
+    35%,
+    50%,
+    55%,
+    70%,
+    75%,
+    90%,
+    95%{
+        width: 0;
+    }
+    5%,
+    20%,
+    25%,
+    40%,
+    60%,
+    65%,
+    80%,
+    85%{
+        width: calc(100% + 8px);
+    }
+    
+}

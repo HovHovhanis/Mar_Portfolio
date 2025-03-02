@@ -1,0 +1,53 @@
+.services {
+
+    &__box {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        align-items: start;
+        gap: 30px;
+
+        @media screen and (max-width: 880px) {
+         grid-template-columns: 1fr;
+       }
+    }
+  
+    &__item {
+      width: 100%;
+      padding: 20px 16px;
+      border: 1px solid #00ffee;
+      box-shadow: 0 0 12px #00ffee;
+      border-radius: 10px;
+  
+      &-title {
+        margin-bottom: 20px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 10px;
+        font-size: 18px;
+      }
+    }
+  
+    &__description {
+      margin-bottom: 20px;
+      font-size: 16px;
+      max-height: 50px; /* Изначальная ограниченная высота */
+      overflow: hidden;
+      transition: all 0.4s linear; /* Плавное изменение высоты */
+  
+      &.expanded {
+        max-height: 300px; /* Максимальная высота при раскрытии */
+      }
+    }
+  
+    &__btn-more {
+      padding: 12px 28px;
+      box-shadow: 0 0 5px #00ffee;
+      border-radius: 4px;
+  
+      &:hover {
+        box-shadow: 0 0 20px #00ffee;
+      }
+    }
+}
+  

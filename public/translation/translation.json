@@ -1,0 +1,252 @@
+{
+  "eng": {
+    "header": {
+      "about": "About",
+      "services": "Services",
+      "skills": "Skills",
+      "contact": "Contact us",
+      "projects": "Projects"
+    },
+    "banner": {
+      "bannerTitle": "Hi, It's",
+      "bannerTtitleSpan": "Marine",
+      "bannerAnimationText": "I'm a ",
+      "bannerDesc": "I pay special attention to details, harmonious color solutions and unique UX/UI approaches. studied at the Creative Commons Academy, where I deepened my knowledge in web design, UX/UI, and corporate identity design. I work with Figma and Adobe Photoshop, creating platforms that are not only visually appealing, but also user-friendly."
+    },
+    "sectionTitle": {
+      "titleAbout" : "About",
+      "titleServices": "Services",
+      "titleSkills": "Skills",
+      "titleProjects": "My Proejcts",
+      "titleContact": "Contact me"
+    },
+    "about": {
+      "aboutContetnTitle": "I am a web designer by profession",
+      "aboutContetnDesk": "I pay special attention to details, harmonious color solutions and unique UX/UI approaches. I studied at the Creative Commons Academy, where I deepened my knowledge in web design, UX/UI, and corporate identity design. I work with Figma and Adobe Photoshop, creating platforms that are not only visually appealing, but also user-friendly. My goal is to create websites that tell the story of your brand, highlight its values, and become a calling card for your customers. If you are looking for an elegant, professional and functional design, I am ready to cooperate."
+    },
+    "services": {
+      "item_1": {
+        "servicesHeading": "UI Design",
+        "servicesDescription": "Create user interfaces that are functional and visually appealing.",
+        "servicesDescriptionHidden": "Create user interfaces that are functional and visually appealing. We ensure that the interface is intuitive and meets user needs, improving both functionality and design."
+      },
+      "item_2": {
+        "servicesHeading": "UX Research",
+        "servicesDescription": "Conduct user research to improve usability and user satisfaction.",
+        "servicesDescriptionHidden": "Conduct user research to improve usability and user satisfaction. We analyze user behavior, gather insights, and refine products to meet users’ expectations."
+      },
+      "item_3": {
+        "servicesHeading": "Prototyping",
+        "servicesDescription": "Develop interactive prototypes to visualize and test design concepts.",
+        "servicesDescriptionHidden": "Develop interactive prototypes to visualize and test design concepts. Our prototypes help in validating ideas before development, ensuring a better final product."
+      },
+      "learnMore": "Learn More",
+      "showLess": "Show Less"
+    },
+    "skills": {
+      "list_1": {
+        "listSkills_1": "UI/UX Design",
+        "listSkills_2": "Web and app mockups",
+        "listSkills_3": "Interactive prototypes",
+        "listSkills_4": "Team collaboration and co-editing",
+        "listSkills_5": "Vector design",
+        "listSkills_6": "Components and Auto Layout",
+        "listSkills_7": "Responsive design"
+      },
+      "list_2": {
+        "listSkills_1": "Photo manipulation",
+        "listSkills_2": "Logo and visual concept creation",
+        "listSkills_3": "High-quality retouching and color correction",
+        "listSkills_4": "Banners, posters, and social media visuals",
+        "listSkills_5": "Transparent background images"
+      }
+    },
+    "projects": {
+      "btnGotoProjects": "Go to proejct",
+      "projectText_1": "Furniture production and sales website. This project is designed for furniture manufacturing companies that want to present their products, services and professional team. The website is",
+      "projectText_2": "Online Cake Shop. This project is designed for online sales of cakes and sweets. The site includes a catalog of various cakes with vanilla, chocolate, fruit and other flavors. Each product",
+      "projectText_3": "This web design is intended for a music and visual content platform that can represent musicians, photographers, or creative groups."
+    },
+    "contact": {
+      "massageOk": "Your message is recieved successfully.",
+      "massageError": "Oops! Something went wrong. Please try again.",
+      "formName": "Name",
+      "formLastName": "Last Name",
+      "formEmail": "Email",
+      "formPhone": "Phone Number",
+      "formMassage": "Your Message",
+      "formButton": "Send"
+    },
+    "footer": {
+      "name": "Marine Adilyan",
+      "copy": "All rights reserved"
+    }
+  },
+  "rus": {
+    "header": {
+      "about": "О нас",
+      "services": "Услуги",
+      "skills": "Навыки",
+      "projects": "Проекты",
+      "contact": "Связаться с нами"
+    },
+    "banner": {
+      "bannerTitle": "Привет, я",
+      "bannerTtitleSpan": "Марине",
+      "bannerAnimationText": "Я",
+      "bannerDesc": "Особое внимание я уделяю деталям, гармоничным цветовым решениям и уникальным UX/UI подходам. учился в Creative Commons Academy, где углубил свои знания в области веб-дизайна, UX/UI и дизайна фирменного стиля. Я работаю с Figma и Adobe Photoshop, создавая платформы, которые не только визуально привлекательны, но и удобны для пользователя."
+    },
+    "sectionTitle": {
+      "titleAbout" : "О нас",
+      "titleServices": "Услуги",
+      "titleSkills": "Навыки",
+      "titleProjects": "Мои проекты",
+      "titleContact": "Связаться с нами"
+    },
+    "about": {
+      "aboutContetnTitle": "По профессии я веб-дизайнер",
+      "aboutContetnDesk": "Особое внимание я уделяю деталям, гармоничным цветовым решениям и уникальным UX/UI подходам. Я учился в Creative Commons Academy, где углубил свои знания в области веб-дизайна, UX/UI и дизайна фирменного стиля. Я работаю с Figma и Adobe Photoshop, создавая платформы, которые не только визуально привлекательны, но и удобны для пользователя. Моя цель — создавать веб-сайты, которые рассказывают историю вашего бренда, подчеркивают его ценности и становятся визитной карточкой для ваших клиентов. Если вы ищете элегантный, профессиональный и функциональный дизайн, я готов к сотрудничеству."
+    },
+    "services": {
+      "item_1": {
+        "servicesHeading": "UI интерфейса",
+        "servicesDescription": "Создавайте функциональные и визуально привлекательные пользовательские интерфейсы.",
+        "servicesDescriptionHidden": "Создавайте функциональные и визуально привлекательные пользовательские интерфейсы. Мы заботимся о том, чтобы интерфейс был интуитивно понятен и отвечал потребностям пользователя, улучшая как функциональность, так и дизайн."
+      },
+      "item_2": {
+        "servicesHeading": "UX-исследования",
+        "servicesDescription": "Проведите исследование пользователей, чтобы улучшить удобство использования и удовлетворенность пользователей.",
+        "servicesDescriptionHidden": "Проведите исследование пользователей, чтобы улучшить удобство использования и удовлетворенность пользователей. Мы анализируем поведение пользователей, собираем информацию и совершенствуем продукты, чтобы они соответствовали ожиданиям пользователей."
+      },
+      "item_3": {
+        "servicesHeading": "Прототипирование",
+        "servicesDescription": "Разрабатывайте интерактивные прототипы для визуализации и тестирования концепций дизайна.",
+        "servicesDescriptionHidden": "Разрабатывайте интерактивные прототипы для визуализации и тестирования концепций дизайна. Наши прототипы помогают проверять идеи перед разработкой, обеспечивая лучший конечный продукт."
+      },
+      "learnMore": "Узнать больше",
+      "showLess": "Показать меньше"
+    },
+    "skills": {
+      "list_1": {
+        "listSkills_1": "UI/UX-дизайн",
+        "listSkills_2": "Макеты веб-сайтов и приложений",
+        "listSkills_3": "Интерактивные прототипы",
+        "listSkills_4": "Командное сотрудничество и совместное редактирование",
+        "listSkills_5": "Векторный дизайн",
+        "listSkills_6": "Компоненты и автоматический макет",
+        "listSkills_7": "Адаптивный дизайн"
+      },
+      "list_2": {
+        "listSkills_1": "Манипулирование фотографиями",
+        "listSkills_2": "Создание логотипа и визуальной концепции",
+        "listSkills_3": "Качественная ретушь и цветокоррекция.",
+        "listSkills_4": "Баннеры, плакаты и визуальные эффекты для социальных сетей.",
+        "listSkills_5": "Прозрачные фоновые изображения"
+      }
+    },
+    "projects": {
+      "btnGotoProjects": "Перейти в проект",
+      "projectText_1": "Сайт производства и продажи мебели. Этот проект предназначен для компаний-производителей мебели, которые хотят представить свою продукцию, услуги и профессиональную команду.",
+      "projectText_2": "Интернет-магазин тортов. Этот проект предназначен для онлайн-продаж тортов и сладостей. На сайте представлен каталог разнообразных тортов с ванильным, шоколадным, фруктовым и другими вкусами. ",
+      "projectText_3": "Этот веб-дизайн предназначен для платформы музыкального и визуального контента, которая может представлять музыкантов, фотографов или творческие группы."
+    },
+    "contact": {
+      "massageOk": "Ваше сообщение успешно отправлено!",
+      "massageError": "Упс! Что-то пошло не так. Пожалуйста, попробуйте еще раз.",
+      "formName": "Имя",
+      "formLastName": "Фамилия",
+      "formEmail": "Эл. почта",
+      "formPhone": "Номер телефона",
+      "formMassage": "Ваше сообщение",
+       "formButton": "Отправлять"
+    },
+    "footer": {
+      "name": "Марине Адильян",
+      "copy": "Все права защищены"
+    }
+       
+  },
+  "arm": {
+    "header": {
+      "about": "Իմ մասին",
+      "services": "Ծառայություններ",
+      "skills": "Հմտություններ",
+      "projects": "Նախագծեր",
+      "contact": "Կապ իմ հետ"
+    },
+    "banner": {
+      "bannerTitle": "Բարև, իմ անունն է",
+      "bannerTtitleSpan": "Մարինե",
+      "bannerAnimationText": "Ես",
+      "bannerDesc": "Հատուկ ուշադրություն եմ դարձնում մանրամասներին, ներդաշնակ գունային սխեմաներին և յուրահատուկ UX/UI մոտեցումներին։ սովորել է Creative Commons ակադեմիայում, որտեղ խորացրել է իր գիտելիքները վեբ դիզայնի, UX/UI եւ կորպորատիվ ինքնության նախագծման ոլորտում։ Ես աշխատում եմ Figma-ի և Adobe Photoshop-ի հետ՝ ստեղծելու հարթակներ, որոնք ոչ միայն տեսողականորեն գրավիչ են, այլև օգտագործողի համար հարմար:"
+    },
+    "sectionTitle": {
+      "titleAbout" : "Իմ մասին",
+      "titleServices": "Ծառայություններ",
+      "titleSkills": "Հմտություններ",
+      "titleProjects": "Իմ Նախագծերը",
+      "titleContact": "Կապ իմ հետ"
+    },
+    "about": {
+      "aboutContetnTitle": "Մասնագիտությամբ վեբ դիզայներ եմ",
+      "aboutContetnDesk": "Հատուկ ուշադրություն եմ դարձնում դետալներին, ներդաշնակ գունային լուծումներին և յուրահատուկ UX/UI մոտեցումներին։ Սովորել եմ Creative Commons ակադեմիայում, որտեղ խորացրել եմ իմ գիտելիքները վեբ դիզայնի, UX/UI-ի և կորպորատիվ ինքնության ձևավորման ոլորտում։ Ես աշխատում եմ Figma-ի և Adobe Photoshop-ի հետ՝ ստեղծելով հարթակներ, որոնք ոչ միայն տեսողականորեն գրավիչ են, այլև օգտագործողի համար հարմար: Իմ նպատակն է ստեղծել կայքեր, որոնք պատմում են ձեր ապրանքանիշի մասին, ընդգծում են դրա արժեքները և դառնում այցեքարտ ձեր հաճախորդների համար: Եթե ​​փնտրում եք էլեգանտ, պրոֆեսիոնալ և ֆունկցիոնալ դիզայն, ես պատրաստ եմ համագործակցել։"
+    },
+    "services": {
+      "item_1": {
+        "servicesHeading": "UI դիզայն",
+        "servicesDescription": "Ստեղծեք օգտագործողի միջերեսներ, որոնք ֆունկցիոնալ են և տեսողականորեն գրավիչ:",
+        "servicesDescriptionHidden": "Ստեղծեք օգտագործողի միջերեսներ, որոնք ֆունկցիոնալ են և տեսողականորեն գրավիչ: Մենք ապահովում ենք, որ ինտերֆեյսը ինտուիտիվ է և բավարարում է օգտատերերի կարիքները՝ բարելավելով և՛ ֆունկցիոնալությունը, և՛ դիզայնը:"
+      },
+      "item_2": {
+        "servicesHeading": "UX հետազոտություն",
+        "servicesDescription": "Կատարել օգտատերերի հետազոտություն՝ բարելավելու օգտագործելիությունը և օգտատերերի գոհունակությունը:",
+        "servicesDescriptionHidden": "Կատարել օգտատերերի հետազոտություն՝ բարելավելու օգտագործելիությունը և օգտատերերի գոհունակությունը: Մենք վերլուծում ենք օգտատերերի վարքագիծը, հավաքում ենք պատկերացումներ և ճշգրտում ենք արտադրանքը՝ բավարարելու օգտատերերի ակնկալիքները:"
+      },
+      "item_3": {
+        "servicesHeading": "Նախատիպավորում",
+        "servicesDescription": "Մշակել ինտերակտիվ նախատիպեր՝ դիզայնի գաղափարները պատկերացնելու և փորձարկելու համար:",
+        "servicesDescriptionHidden": "Մշակել ինտերակտիվ նախատիպեր՝ դիզայնի գաղափարները պատկերացնելու և փորձարկելու համար: Մեր նախատիպերը օգնում են վավերացնել գաղափարները նախքան մշակումը, ապահովելով ավելի լավ վերջնական արտադրանք:"
+      },
+      "learnMore": "Իմացեք ավելին",
+      "showLess": "Ավելի քիչ"
+    },
+    "skills": {
+      "list_1": {
+        "listSkills_1": "UI/UX դիզայն",
+        "listSkills_2": "Վեբ և հավելվածների մոդելներ",
+        "listSkills_3": "Ինտերակտիվ նախատիպեր",
+        "listSkills_4": "Թիմային համագործակցություն և համատեղ խմբագրում",
+        "listSkills_5": "Վեկտորային դիզայն",
+        "listSkills_6": "Բաղադրիչներ և ավտոմատ դասավորություն",
+        "listSkills_7": "Պատասխանատու դիզայն"
+      },
+      "list_2": {
+        "listSkills_1": "Լուսանկարների մանիպուլյացիա",
+        "listSkills_2": "Լոգոյի և տեսողական կոնցեպտի ստեղծում",
+        "listSkills_3": "Բարձրորակ ռետուշ և գունային շտկում",
+        "listSkills_4": "Բաններներ, պաստառներ և սոցիալական ցանցերի տեսողական պատկերներ",
+        "listSkills_5": "Թափանցիկ ֆոնային պատկերներ"
+      }
+    },
+    "projects": {
+      "btnGotoProjects": "Գնացեք նախագիծ",
+      "projectText_1": "Կահույքի արտադրության և վաճառքի կայք: Այս նախագիծը նախատեսված է կահույք արտադրող ընկերությունների համար, ովքեր ցանկանում են ներկայացնել իրենց արտադրանքը, ծառայությունները և պրոֆեսիոնալ թիմը: ",
+      "projectText_2": "Առցանց տորթերի խանութ: Այս նախագիծը նախատեսված է տորթերի և քաղցրավենիքի առցանց վաճառքի համար։ Կայքը ներառում է վանիլի, շոկոլադի, մրգերի և այլ համերով տարբեր տորթերի կատալոգ: ",
+      "projectText_3": "Այս վեբ դիզայնը նախատեսված է երաժշտական ​​և տեսողական բովանդակության հարթակի համար, որը կարող է ներկայացնել երաժիշտների, լուսանկարիչների կամ ստեղծագործական խմբերի:"
+    },
+    "contact": {
+      "massageOk": "Ձեր հաղորդագրությունը հաջողությամբ ուղարկվել է:",
+      "massageError": "Վա՜յ Սխալ առաջացավ։ Խնդրում ենք կրկին փորձել:",
+      "formName": "Անուն",
+      "formLastName": "Ազգանուն",
+      "formEmail": "Էլ. Հասցե",
+      "formPhone": "Հեռախոսահամար",
+      "formMassage": "Ձեր հաղորդագրությունը",
+      "formButton": "Ուղարկել"
+    },
+    "footer": {
+      "name": "Մարինե Ադիլյան",
+      "copy": "Բոլոր իրավունքները պաշտպանված են"
+    }
+  }
+}

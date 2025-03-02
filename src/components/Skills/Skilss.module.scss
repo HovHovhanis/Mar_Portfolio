@@ -1,0 +1,38 @@
+.skills {
+
+    &__box {
+       display: grid;
+       grid-template-columns: repeat(2, 1fr);
+       gap: 40px;
+
+       @media screen and (max-width: 780px) {
+            grid-template-columns: 1fr;
+       }
+    }
+
+    &__list {
+        padding: 18px 16px;
+        border: 1px solid #00ffee;
+        border-radius: 10px;
+        box-shadow: 0 0 15px #00ffee;
+    }
+
+    &__item {
+        margin-bottom: 20px;
+        display: flex;
+        align-items: center;
+        gap: 20px;
+        &-title {
+            margin-bottom: 20px;
+            text-align: center;
+            font-size: 32px;
+            font-weight: bold;
+            -webkit-text-fill-color: transparent;
+            -webkit-text-stroke: 1px #00ffee;
+        }
+        &-deck {
+            font-size: 14px;
+            font-weight: 500;
+        }
+    }
+}
