@@ -13,7 +13,7 @@
 
     &__left {
         margin-bottom: 20px;
-        width: 40%;
+        width: 60%;
         display: flex;
         flex-direction: column;
         gap: 20px;
@@ -30,8 +30,22 @@
 
 
         &-images {
-            width: 320px;
+            position: relative;
+            width: 100%;
             height: 100%;
+            box-shadow: 0 0 5px #00ffee;
+            border-radius: 12px;
+
+
+            &::after {
+                position: absolute;
+                content: "";
+                left: 0;
+                top: 0;
+                width: 100%;
+                height: 100%;
+                background-color: #000000a2;
+            }
 
             @media screen and (max-width: 480px) {
                 margin: auto;
@@ -40,8 +54,8 @@
 
             > img {
                 width: 100%;
-                box-shadow: 0 0 5px #00ffee;
                 border-radius: 12px;
+                display: block;
                 transition: .3s linear;
 
                 &:hover {

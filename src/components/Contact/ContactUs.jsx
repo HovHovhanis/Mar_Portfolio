@@ -83,7 +83,7 @@ const ContactUs = () => {
           <div className={styles["contact__left"]}>
             <picture className={styles["contact__left-images"]}>
               <Image
-                src={"/img/contact-img.png"}
+                src={"/img/contact-img.jpeg"}
                 alt="contact-img"
                 width={300}
                 height={350}
@@ -101,7 +101,7 @@ const ContactUs = () => {
                 </Link>
               </li>
               <li className={styles["contact__soc-item"]}>
-                <Link target="_blank" href={"https://www.facebook.com/share/15nvYeLAwZ/?mibextid=qi2Omg"}>
+                <Link target="_blank" href={"https://www.facebook.com/share/16adpD4GzU/"}>
                   <FaFacebookF size={30} />
                 </Link>
               </li>

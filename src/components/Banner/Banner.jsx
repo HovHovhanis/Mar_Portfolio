@@ -33,12 +33,12 @@ const Banner = () => {
                             <Link href={'https://web.whatsapp.com/'} className={styles['banner__soc-link']}><FaWhatsapp size={25} /> </Link>
                         </li>
                         <li className={styles['banner__soc-item']}>
-                            <Link target='_blank' href={'https://www.facebook.com/share/15nvYeLAwZ/?mibextid=qi2Omg'} className={styles['banner__soc-link']}><FaFacebookF size={25} /></Link>
+                            <Link target='_blank' href={'https://www.facebook.com/share/16adpD4GzU/'} className={styles['banner__soc-link']}><FaFacebookF size={25} /></Link>
                         </li>
                     </ul>
                 </div>
                 <picture className={styles['banner__images']}>
-                    <Image src={'/img/banner-img.png'} alt='my__photo' width={350} height={350} />
+                    <Image src={'/img/banner-img.jpg'} alt='my__photo' width={350} height={350} />
                 </picture>
             </div>
         </div>

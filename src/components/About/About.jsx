@@ -19,7 +19,7 @@ const About = () => {
                     <p className={styles['about__box-info--deck']}>{translation[lang].about.aboutContetnDesk}</p>
                 </div>
                 <picture className={styles['about__box-images']}>
-                    <Image src={'/img/about.png'} alt='about' width={300} height={300} />
+                    <Image src={'/img/about.jpg'} alt='about' width={300} height={300} />
                 </picture>
             </div>
 
